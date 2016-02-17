@@ -1,0 +1,17 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory",
+    "file": "memory/db.json"
+  },
+  "sys": {
+    "name": "sys",
+    "connector": "memory",
+    "file": "memory/sys.json"
+  },
+  "logic": {
+    "name": "logic",
+    "connector": "memory",
+    "file": "memory/logic.json"
+  }
+}
